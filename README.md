@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nscraft (Nick Craft)
+- 👀 I’m interested in data analytics and data visualization
+- 🌱 I’m currently learning Power Bi and SQL but I also think I should be learning Python or other coding languages to develop practical applications as solutions to the probelems I am trying to solve with my more limited tools now. 
+- 💞️ I’m looking to collaborate on Power Bi report projects and Power Bi intigration with other tools. 
+- 📫 How to reach me == nscraft@gmail.com

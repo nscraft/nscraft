@@ -1,0 +1,48 @@
+wip
+
+About me
+The “About me” page gives you an opportunity to introduce prospective employers to who you are, what you do, and why it’s important to you. You can use this section to explain:
+How you got started in data analysis
+What about data interests you most
+Where your passions lie in relation to data analytics
+This is also a great place to include your contact details (if you don’t have them on a separate page) and links to your social media accounts.
+
+Projects
+The bulk of your portfolio will likely comprise a series of projects and case studies that demonstrate your key skills. In general, your portfolio should showcase your best or latest work. Try to include projects that highlight your ability to:
+Scrape data from websites: Show your code, and use hashed comments to explain your thinking.
+While you’ll find no shortage of excellent (and free) public data sets on the internet, you might want to show prospective employers that you’re able to find and scrape your own data as well. Plus, knowing how to scrape web data means you can find and use data sets that match your interests, regardless of whether or not they’ve already been compiled.
+If you know some Python, you can use tools like Beautiful Soup or Scrapy to crawl the web for interesting data. If you don’t know how to code, don’t worry. You’ll also find several tools that automate the process (many offer a free trial), like Octoparse or ParseHub.
+If you’re unsure where to start, here are some websites with interesting data options to inspire your project:
+Reddit
+Wikipedia
+Job portals
+
+Clean data: Take a data set with missing, duplicate, or other problematic data, and walk through your data cleaning process.
+A significant part of your role as a data analyst is cleaning data to make it ready to analyze. Data cleaning (also called data scrubbing) is the process of removing incorrect and duplicate data, managing any holes in the data, and making sure the formatting of data is consistent. 
+As you look for a data set to practice cleaning, look for one that includes multiple files gathered from multiple sources without much curation. Some sites where you can find “dirty” data sets to work with include:
+CDC Wonder
+Data.gov
+World Bank
+Data.world
+/r/datasets
+Perform different types of analysis: Use data to perform diagnostic, descriptive, predictive, and prescriptive analysis.
+Data analysis is all about answering questions with data. Exploratory data analysis, or EDA for short, helps you explore what questions to ask. This could be done separate from or in conjunction with data cleaning. Either way, you’ll want to accomplish the following during these early investigations.
+Ask lots of questions about the data.
+Discover the underlying structure of the data.
+Look for trends, patterns, and anomalies in the data.
+Test hypotheses and validate assumptions about the data.
+Think about what problems you could potentially solve with the data.
+Sentiment analysis, typically performed on textual data, is a technique in natural language processing (NLP) for determining whether data is neutral, positive, or negative. It may also be used to detect a particular emotion based on a list of words and their corresponding emotions (known as a lexicon). 
+This type of analysis works well with public review sites and social media platforms, where people are likely to offer public opinions on various subjects.
+To get started exploring what people feel about a certain topic, you can start with sites like:
+Amazon (product reviews)
+Rotten Tomato (movie reviews)
+Facebook
+Twitter
+News sites
+
+Visualize data to tell a story: Create a chart, map, graph, or other visualization to make your data easier to understand.
+Communicate complex ideas: Consider writing a blog post that outlines your process or explains a difficult data concept to highlight your communication skills.
+Collaborate with others: If you’ve worked on a group project, be sure to include it.
+Use data analysis tools: Share projects that show off your ability to use SQL, Python, R, Tableau, etc.
+
